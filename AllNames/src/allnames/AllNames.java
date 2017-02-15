@@ -8,7 +8,7 @@ public class AllNames {
     public static void main(String[] args) {
         
         Set<String> myset = new TreeSet<String>();
-        
+        // kommentar dazugetan
         myset.add(Andreas.getName());
         
         for(String s : myset) {
